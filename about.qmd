@@ -1,0 +1,8 @@
+---
+title: "About"
+---
+
+This project uses machine learning techniques to detect pneumonia from chest X-ray images.  
+We use convolutional neural networks (CNNs) to analyze grayscale image data from the SIIM Medical Dataset.  
+
+The final model achieves over 90% accuracy on the test set. This suggests that AI can play a significant role in supporting radiologists in early disease detection, especially in low-resource environments.
