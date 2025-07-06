@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ai-health care diagnostics",
+    "section": "",
+    "text": "Can artificial intelligence be trained to detect pneumonia from chest X-ray images? This project explores the structure and distribution of the SIIM Medical Images dataset, published on Kaggle in 2021. It contains chest X-rays labeled for the presence or absence of pneumonia, along with patient metadata such as age and contrast usage.\nBy visualizing this dataset, we reveal how cases are distributed between pneumonia and normal diagnoses, offering insight into the potential and limitations of using such data for future AI-driven healthcare diagnostics."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I’m Hassan Ali (https://github.com/alisoni007), a data analyst exploring AI in healthcare.\nContact: hassan.alisoni007@gmail.com\nThis repo uses deep learning for X-ray image classification: GitHub Repo\nThis project was created as part of Kane’s Data Science Bootcamp."
+  }
+]
